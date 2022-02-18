@@ -1,7 +1,6 @@
 # VorkInstaWebViewReactNative
-## added Functionality
-
-  -loader
+- added Functionality
+  - loader
   - refresher
   - navigation
   
